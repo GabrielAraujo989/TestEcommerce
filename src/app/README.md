@@ -94,5 +94,5 @@ Contribuições são sempre bem-vindas! Se você deseja colaborar com este proje
 4. Envie suas alterações: git push origin minha-branch.
 5. Abra um Pull Request.
 
-Desenvolvido com ❤️ por [Gabriel Araujo]([https://www.seusite.com](https://drive.google.com/file/d/1QmHo5wfRp0mjXMJLf3gKz_aHaqEptpKg/view?usp=drive_link))
+Desenvolvido com ❤️ por [Gabriel Araujo]([[https://www.seusite.com(https://drive.google.com/file/d/1QmHo5wfRp0mjXMJLf3gKz_aHaqEptpKg/view?usp=drive_link)].
 
